@@ -98,3 +98,7 @@ This project is currently for learning purposes. You may freely use and modify i
 ---
 
 > ⭐ *If you like this project, give it a star on GitHub!*
+
+PRO TIP:  
+DOWNLOAD full folder of game and run "main menu.py" and game will run 
+ENJOY IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!
